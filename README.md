@@ -6,4 +6,4 @@ add this files to your home dir ( htdocs )
 
 edit database with your username and password for xampp from config.php
 
-import cyper.sql using phpmyadmin
+import capstone.sql using phpmyadmin
